@@ -5,7 +5,7 @@ This package provides TypeScript type declarations for the OCPP (Open Charge Poi
 ## Installation
 
 ```bash
-npm install --save @types/ocpp
+npm install --save ocpp-types
 ```
 
 ## Usage
@@ -13,7 +13,7 @@ npm install --save @types/ocpp
 Once installed, you can import the provided type definitions into your TypeScript project:
 
 ```typescript
-import { OCPPMessage, StatusNotificationRequest } from '@types/ocpp';
+import { OCPPMessage, StatusNotificationRequest } from 'ocpp-types';
 
 // Use the types in your code
 const message: OCPPMessage = {
