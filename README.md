@@ -5,7 +5,11 @@ This package provides TypeScript type declarations for the OCPP (Open Charge Poi
 ## Installation
 
 ```bash
-npm install --save ocpp-types
+npm install ocpp-types --save-dev
+```
+or
+```bash
+yarn add ocpp-types --dev
 ```
 
 ## Usage
