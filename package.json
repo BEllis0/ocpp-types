@@ -23,5 +23,8 @@
   ],
   "devDependencies": {
     "typescript": "^5.0.4"
+  },
+  "scripts": {
+    "publish": "yarn publish"
   }
 }
