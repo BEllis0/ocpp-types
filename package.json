@@ -1,0 +1,27 @@
+{
+  "name": "@types/ocpp",
+  "version": "1.0.0",
+  "description": "TypeScript declaration file for Open Charge Point Protocol (OCPP) v1.6",
+  "main": "",
+  "types": "index.d.ts",
+  "typeScriptVersion": "5.0.4",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BEllis0/ocpp-types.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BEllis0/ocpp-types/issues"
+  },
+  "homepage": "https://github.com/BEllis0/ocpp-types#readme",
+  "keywords": [
+    "ocpp",
+    "ocpp types",
+    "@types ocpp",
+    "charge point",
+    "open charge point protocol"
+  ],
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
